@@ -1,0 +1,588 @@
+/* Big screen :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    img.file {
+        max-width: 242px;
+    }
+    
+    img.coin-border {
+        max-width: 250px;
+    }
+    
+    .header_top {
+        width: 90%;
+    }
+    
+    .menu-area ul {
+        gap: 30px;
+    }
+    
+    .hero-content h1 {
+        font-size: 70px;
+    }
+    
+    .hero-content {
+        padding-left: 90px;
+    }
+    
+    .growing_content h1 {
+        font-size: 60px;
+    }
+    
+    .growing_content {
+        padding-top: 40px;
+    }
+    
+    img.chine {
+        display: none;
+    }
+    
+    .Ecosystem-content {
+        width: 80%;
+    }
+    
+    .social_link ul li {
+        flex-basis: 32%;
+    }
+    
+    img.footer-bg {
+        left: -390px;
+        width: auto;
+    }
+    
+    .footer-area {
+        overflow: hidden;
+    }
+
+}
+
+
+@media (min-width: 1340px) and (max-width: 1500px) {
+    img.footer-bg{
+    left: -310px;
+}
+}
+
+/* Normal screen :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    
+    .header_top {
+        width: 90%;
+    }
+    
+    .menu-area ul {
+        gap: 30px;
+    }
+    
+    .hero-content h1 {
+        font-size: 60px;
+    }
+    
+    .hero-content {
+        padding-left: 50px;
+    }
+    
+    .growing_content h1 {
+        font-size: 50px;
+        margin-bottom: 80px;
+    }
+    
+    .growing_content {
+        padding-top: 40px;
+    }
+    
+    img.chine {
+        display: none;
+    }
+    
+    .Ecosystem-content {
+        width: 98%;
+    }
+    
+    .social_link ul li {
+        flex-basis: 32%;
+    }
+    
+    img.footer-bg {
+        left: -508px;
+        width: auto;
+    }
+    
+    .footer-area {
+        overflow: hidden;
+    }
+    .menu-area nav ul li a {
+        font-size: 15px;
+    }
+    
+    .hero-content p {
+        font-size: 20px;
+    }
+    
+    .airdrop-list ul li h3 {
+        font-size: 20px;
+    }
+    
+    .airdrop-list ul li {
+        padding: 24px 16px;
+    }
+    
+    .airdrop-list ul li p {
+        font-size: 15px;
+    }
+    
+    .airdrop-content h1 {
+        font-size: 48px;
+    }
+    
+    .growing_list ul li i {
+        width: 90px;
+        height: 90px;
+    }
+    
+    .Ecosystem-content h1 {
+        font-size: 40px;
+    }
+    
+    .footer_left h1 {
+        font-size: 36px;
+        max-width: 269px;
+    }
+    
+    .footer_left a {
+        width: 100px;
+    }
+    img.file {
+        max-width: 176px;
+        left: 30px;
+    }
+    
+    img.coin-border {
+        max-width: 164px;
+        bottom: 300px;
+        right: 50px;
+    }
+}
+
+ 
+/* Tablet screen :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    
+    .header_top {
+        width: 90%;
+    }
+    
+    .menu-area ul {
+        gap: 30px;
+    }
+    
+    .hero-content h1 {
+        font-size: 50px;
+    }
+    
+    .hero-content {
+        padding-left: 50px;
+        margin-top: 172px;
+    }
+    
+    .growing_content h1 {
+        font-size: 40px;
+        margin-bottom: 28px;
+    }
+    
+    .growing_content {
+        padding-top: 40px;
+    }
+    
+    img.chine {
+        display: none;
+    }
+    
+    .Ecosystem-content {
+        width: 80%;
+    }
+    
+    .social_link ul li {
+        flex-basis: 32%;
+    }
+    
+    img.footer-bg {
+        left: 0;
+        height: 240px;
+        width: 100%;
+    }
+    
+    .footer-area {
+        overflow: hidden;
+        height: auto;
+    }
+    .menu-area nav ul li a {
+        font-size: 15px;
+    }
+    
+    .hero-content p {
+        font-size: 18px;
+    }
+    
+    .airdrop-list ul li h3 {
+        font-size: 20px;
+    }
+    
+    .airdrop-list ul li {
+        padding: 24px 16px;
+        max-width: 220px;
+        text-align: center;
+    }
+    
+    .airdrop-list ul li p {
+        font-size: 15px;
+    }
+    
+    .airdrop-content h1 {
+        font-size: 40px;
+    }
+    
+    .growing_list ul li i {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .Ecosystem-content h1 {
+        font-size: 40px;
+    }
+    
+    .footer_left h1 {
+        font-size: 32px;
+        max-width: 250px;
+    }
+    
+    .footer_left a {
+        width: 100px;
+    }
+    .header_top ul li {
+        font-size: 12px;
+        gap: 5px;
+    }
+    
+    .hero-area {
+        height: 100%;
+    }
+    
+    .hero-content span {
+        font-size: 14px;
+    }
+    
+    .airdrop-list ul {
+        flex-wrap: wrap;
+    }
+    
+    .airdrop-list ul li i {
+        margin: auto;
+    }
+    
+    .airdrop-content p {
+        font-size: 18px;
+    }
+    
+    .airdrop-list {
+        margin-bottom: 70px;
+    }
+    
+    .growing-area .container {
+        width: 70%;
+    }
+    
+    .thm_btn {
+        padding: 12px 20px;
+        font-size: 15px;
+    }
+    
+    .growing_content p {
+        font-size: 18px;
+    }
+    
+    .Ecosystem-list ul {
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    
+    .Ecosystem-list ul li {
+        flex-basis: 45%;
+    }
+    
+    .social_link ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .footer_left {
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        height: 215px;
+    }
+    
+    .footer_nav {
+        padding-bottom: 40px;
+        max-width: 98%;
+    }
+    
+    .footer_nav ul li {
+        flex-basis: 24%;
+    }
+    
+    .footer_nav ul {
+        gap: 20px 0;
+    }
+    img.file {
+        max-width: 111px;
+        left: 30px;
+        bottom: 10%;
+    }
+
+.airdrop-area {
+    padding-bottom: 50px;
+}
+    
+    img.coin-border {
+        max-width: 125px;
+        bottom: 181px;
+        right: 50px;
+    }
+
+}
+
+ 
+/* small screen :320px. */
+@media (max-width: 767px) {
+    .header_top {
+        width: 85%;
+    }
+
+.header-area .container.lg {
+    padding: 0 20px;
+}
+
+body {
+    padding: 16px;
+}
+    
+    .menu-area ul {
+        gap: 30px;
+    }
+    
+    .hero-content h1 {
+        font-size: 40px;
+    }
+    
+    .hero-content {
+        padding-left: 7px;
+        margin-top: 130px;
+        text-align: center;
+    }
+    
+    .growing_content h1 {
+        font-size: 30px;
+        margin-bottom: 16px;
+        margin-top: 10px;
+    }
+    
+    .growing_content {
+        padding-top: 30px;
+    }
+    
+    img.chine {
+        display: none;
+    }
+    
+    .Ecosystem-content {
+        width: 95%;
+        padding:  36px 10px;
+    }
+    
+    .social_link ul li {
+        flex-basis: 32%;
+    }
+    
+    img.footer-bg {
+        left: 0;
+        height: 240px;
+        width: 100%;
+    }
+    
+    .footer-area {
+        overflow: hidden;
+        height: auto;
+    }
+    .menu-area nav ul li a {
+        font-size: 15px;
+    }
+    
+    .hero-content p {
+        font-size: 16px;
+    }
+    
+    .airdrop-list ul li h3 {
+        font-size: 20px;
+        margin: 10px 0;
+    }
+    
+    .airdrop-list ul li {
+        padding: 24px 16px;
+        max-width: 220px;
+        text-align: center;
+    }
+    
+    .airdrop-list ul li p {
+        font-size: 15px;
+    }
+    
+    .airdrop-content h1 {
+        font-size: 32px;
+    }
+    
+    .growing_list ul li i {
+        width: 80px;
+        height: 80px;
+    }
+    
+    .Ecosystem-content h1 {
+        font-size: 30px;
+    }
+    
+    .footer_left h1 {
+        font-size: 28px;
+        max-width: 250px;
+    }
+    
+    .footer_left a {
+        width: 100px;
+    }
+    .header_top ul li {
+        font-size: 12px;
+        gap: 5px;
+        flex-basis: 100%;
+        text-align: left;
+    }
+
+.header_top ul {
+    flex-direction: column;
+    align-items: start;
+    padding: 10px 20px;
+    gap: 7px;
+}
+    
+    .hero-area {
+        height: 100%;
+        min-height: 473px;
+        padding-bottom: 50px;
+    }
+    
+    .hero-content span {
+        font-size: 14px;
+        justify-content: center;
+    }
+    
+    .airdrop-list ul {
+        flex-wrap: wrap;
+    }
+    
+    .airdrop-list ul li i {
+        margin: auto;
+    }
+    
+    .airdrop-content p {
+        font-size: 16px;
+        padding: 0 20px;
+    }
+    
+    .airdrop-list {
+        margin-bottom: 70px;
+    }
+    
+    .growing-area .container {
+        width: 95%;
+    }
+
+.growing-area {
+    padding: 10px 0;
+}
+    
+    .thm_btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+
+.btns-grp {
+    flex-direction: column;
+}
+    
+    .growing_content p {
+        font-size: 18px;
+    }
+    
+    .Ecosystem-list ul {
+        flex-wrap: wrap;
+        gap: 20px;
+        flex-direction: column;
+    }
+    
+    .Ecosystem-list ul li {
+        flex-basis: 45%;
+    }
+    
+    .social_link ul {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .footer_left {
+        justify-content: center;
+        flex-direction: column;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 50px;
+        height: 215px;
+    }
+    
+    .footer_nav {
+        padding-bottom: 40px;
+        max-width: 98%;
+    }
+    
+    .footer_nav ul li {
+        flex-basis: 50%;
+    }
+    
+    .footer_nav ul {
+        gap: 20px 0;
+    }
+    .growing_list ul li {
+        flex-direction: column;
+        max-width: 300px;
+        margin-inline: auto;
+        text-align: center;
+    }
+    
+    .growing_list ul li a {
+        margin: auto;
+    }
+    
+    .social_link ul li a {
+        font-size: 16px;
+        gap: 10px;
+        padding: 12px 24px;
+    }
+    img.file,img.coin-border {
+        display: none;
+    }
+ 
+}
+ 
+/* Large Mobile screen :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+.container {width:450px}
+ 
+}
